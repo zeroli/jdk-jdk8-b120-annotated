@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\zeli\\Apps\\msys64\\mingw64\\bin\\gcc.exe",
+    "files.associations": {
+        "*.cu": "cpp",
+        "java_md.h": "c"
+    }
+}
